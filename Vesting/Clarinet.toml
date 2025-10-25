@@ -1,12 +1,12 @@
 [project]
-name = 'transfer-grace-file'
+name = 'vesting'
 description = ''
 authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
-[contracts.transfer-grace-file]
-path = 'contracts/transfer-grace-file.clar'
+[contracts.vesting]
+path = 'contracts/vesting.clar'
 clarity_version = 3
 epoch = 3.1
 [repl.analysis]
